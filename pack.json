@@ -1,0 +1,9 @@
+{
+    "Name": "NPC快乐度提示",
+    "Author": "晓星",
+    "Description": "询问NPC快乐程度时可得知他们喜欢/不喜欢的NPC与生物群落，附带简单润色相关文案，仅支持中文",
+    "Version": {
+        "major": 1,
+        "minor": 4
+    }
+}
